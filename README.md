@@ -1,4 +1,4 @@
-# EXP3: 4Bit-Up-Down-Asynchronous-Reset-Counter-Synthesis
+# EXP 3: 4Bit-Up-Down-Asynchronous-Reset-Counter-Synthesis
 
 ## Aim:
 
